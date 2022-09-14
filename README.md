@@ -9,3 +9,4 @@ Training data : train.csv
 
 Testing data : test.csv
 
+Raw data : titanic.zip
